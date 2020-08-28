@@ -21,7 +21,7 @@
   - BDD: Cucumber e Capybara (Ruby)
   - Ambiente DevOps: Jenkins, Azure DevOps e BitBucket CI
   - Virtualização: Docker (Basico)
-  - Banco de dados: MySQL, Microsoft SQL Server, Oracle, Postgree
+  - Banco de dados: MySQL, Microsoft SQL Server, Oracle, PostgreSQL
   - Gestão de testes: AzureDevOps, Jira, Mantis e TestLink
   - Gestão de codigo: Github
 
@@ -29,4 +29,4 @@
 #### Procurando aprender sempre e ser melhor a cada dia...
 
 #### Gosto...
-⚽🎵💰📈⏱🦾🏃‍♂️👋
+⚽🎵💰📈⏱🦾🏃‍♂️💻
