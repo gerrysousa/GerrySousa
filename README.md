@@ -2,9 +2,9 @@
 ### 🎓 Graduado em Sistemas de Informação (2013 |PUC Minas - BH/MG)
 
 #### Certificações internacionais na área de testes: 
-  - 🔎👨‍💻 Foundation Level (CTFL) 
-  - 🔎👨‍💻 Agile Level (CTFL-AT) 
-  - 🔎👨‍💻 Advanced Level Automation Engineer (CTAL-TAE) 
+  - 👨‍💻🔎 Foundation Level (CTFL) 
+  - 👨‍💻🔎 Agile Level (CTFL-AT) 
+  - 👨‍💻🔎 Advanced Level Automation Engineer (CTAL-TAE) 
 #### Outras Certificações: 
   - 💻 Microsoft Technology Associate - Software Development Fundamentals
   - 💻 Microsoft Technology Associate - Database Administration Fundamentals 
@@ -21,7 +21,7 @@
   - BDD: Cucumber e Capybara (Ruby)
   - Ambiente DevOps: Jenkins, Azure DevOps e BitBucket CI
   - Virtualização: Docker (Basico)
-  - Banco de dados: MySQL, Microsoft SQL Server, Oracle, PostgreSQL
+  - Banco de dados: MySQL, Microsoft SQL Server, Oracle, PostgreSQL e MongoDB 
   - Gestão de testes: AzureDevOps, Jira, Mantis e TestLink
   - Gestão de codigo: Github
 
