@@ -17,13 +17,13 @@
   - API: RestSharp, Postman
   - Web: Selenium WebDriver (Java, C# e Ruby), Katalon Studio
   - Mobile: Appium (Android e iOS)(Java e C#)
-  - Desktop: Microsoft CodedUI.
+  - Desktop: Microsoft CodedUI Tests.
   - BDD: Cucumber e Capybara (Ruby)
-  - Ambiente DevOps: Jenkins, Azure DevOps e BitBucket CI
+  - Ambiente DevOps: Jenkins, Azure DevOps
   - Virtualização: Docker (Basico)
   - Banco de dados: MySQL, Microsoft SQL Server, Oracle, PostgreSQL e MongoDB 
   - Gestão de testes: AzureDevOps, Jira, Mantis e TestLink
-  - Gestão de codigo: Github
+  - Gestão de codigo: Github, BitBucket e Gitlab
 
 ---------------------------------
 
@@ -34,6 +34,11 @@
 
 #### Gosto...
 ⚽🎵💰📈⏱🦾🏃‍♂️💻
+- Aprender coisas novas 🆕
+- Investimentos 📈💰
+- Praticar atividades físicas  ⚽🏃🏼‍♂️💪🏼
+- Automatizar testes 🦾🤖
+- Músicas 🎶
 
 ---------------------------------
 
