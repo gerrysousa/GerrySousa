@@ -1,5 +1,6 @@
 
 ### 🎓 Graduado em Sistemas de Informação (2013 |PUC Minas - BH/MG)
+### 🎓 Especialização em Arquitetura de Software Distribuído (2021 |PUC Minas - BH/MG)
 
 #### Certificações internacionais na área de testes: 
   - 👨‍💻🔎 Foundation Level (CTFL) 
@@ -14,16 +15,17 @@
 
 ------------------------------------------------------------------
 ### 🦾 Principais tecnologias de testes automatizados: 🤖
-  - API: RestSharp, Postman
+  - API: RestSharp, Robot, RestAssured, Postman
   - Web: Selenium WebDriver (Java, C# e Ruby), Katalon Studio
   - Mobile: Appium (Android e iOS)(Java e C#)
   - Desktop: Microsoft CodedUI Tests.
-  - BDD: Cucumber e Capybara (Ruby)
+  - BDD: Cucumber e Capybara (Ruby), Robot
   - Ambiente DevOps: Jenkins, Azure DevOps
-  - Virtualização: Docker (Basico)
+  - Virtualização: Docker
   - Banco de dados: MySQL, Microsoft SQL Server, Oracle, PostgreSQL e MongoDB 
   - Gestão de testes: AzureDevOps, Jira, Mantis e TestLink
-  - Gestão de codigo: Github, BitBucket e Gitlab
+  - Gestão de codigo: Github, BitBucket, Gitlab, Azure DevOps
+  - Test Reports: Extent Reports (C# e Java), TestNG Reports 
 
 ---------------------------------
 
