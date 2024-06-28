@@ -1,52 +1,73 @@
+## 🎓 Education
+- **🎓 Graduated in Information Systems** (2013 | PUC Minas - BH/MG, Brazil)
+- **🎓 Specialization in Distributed Software Architecture** (2021 | PUC Minas - BH/MG, Brazil)
 
-### 🎓 Graduado em Sistemas de Informação (2013 |PUC Minas - BH/MG)
-### 🎓 Especialização em Arquitetura de Software Distribuído (2021 |PUC Minas - BH/MG)
+## 🏆 Certifications
+### International Certifications in Testing
+- 👨‍💻🔎 **Foundation Level (CTFL)**
+- 👨‍💻🔎 **Agile Level (CTFL-AT)**
+- 👨‍💻🔎 **Advanced Level Automation Engineer (CTAL-TAE)**
 
-#### Certificações internacionais na área de testes: 
-  - 👨‍💻🔎 Foundation Level (CTFL) 
-  - 👨‍💻🔎 Agile Level (CTFL-AT) 
-  - 👨‍💻🔎 Advanced Level Automation Engineer (CTAL-TAE) 
-#### Outras Certificações: 
-  - 💻 Microsoft Technology Associate - Software Development Fundamentals
-  - 💻 Microsoft Technology Associate - Database Administration Fundamentals 
----------------------------------
-#### Tenho experiência sólida em implantação de novos projetos de testes automatizados do zero. Inglês Intermediário.
-#### Experiência na área de qualidade desde 2011, atuações como lider de equipe de qualidade, teste ágil, impulsionar a cultura de QA nas empresas e principalmente tecnologias de testes automatizados Web, Mobile(Android e iOS), API e Desktop. 
+### Microsoft Certifications
+- 💻 **Microsoft Technology Associate - Software Development Fundamentals**
+- 💻 **Microsoft Technology Associate - Database Administration Fundamentals**
 
-------------------------------------------------------------------
-### 🦾 Principais tecnologias de testes automatizados: 🤖
-  - API: RestSharp, Robot, RestAssured, Postman
-  - Web: Selenium WebDriver (Java, C# e Ruby), Katalon Studio
-  - Mobile: Appium (Android e iOS)(Java e C#)
-  - Desktop: Microsoft CodedUI Tests.
-  - BDD: Cucumber e Capybara (Ruby), Robot
-  - Ambiente DevOps: Jenkins, Azure DevOps
-  - Virtualização: Docker
-  - Banco de dados: MySQL, Microsoft SQL Server, Oracle, PostgreSQL e MongoDB 
-  - Gestão de testes: AzureDevOps, Jira, Mantis e TestLink
-  - Gestão de codigo: Github, BitBucket, Gitlab, Azure DevOps
-  - Test Reports: Extent Reports (C# e Java), TestNG Reports 
+## 🧑‍💻 Professional Experience
+- **Java Developer** (Since 2022)
+  - **Specializing in**: 
+    - SpringBoot
+    - Microservices architecture
+    - MongoDB
+    - Azure Pipelines
+    - Argo CD
+    - RabbitMQ
+    - SonarQube
+    - Pactflow
+    - New Relic
 
----------------------------------
+- **Quality Assurance** (Since 2011)
+  - **Roles and Responsibilities**: 
+    - Quality team leadership
+    - Agile testing
+    - Promoting QA culture in companies
+    - Expertise in automated testing technologies (Web, Mobile, API, Desktop)
 
+## 🛠️ Skills and Technologies
+### Main Automated Testing Technologies
+- **API**: RestSharp, Robot, RestAssured, Postman
+- **Web**: Selenium WebDriver (Java, C#, Ruby), Katalon Studio
+- **Mobile**: Appium (Android and iOS) (Java, C#)
+- **Desktop**: Microsoft CodedUI Tests
+- **BDD**: Cucumber, Capybara (Ruby), Robot
+- **DevOps**: Jenkins, Azure DevOps
+- **Virtualization**: Docker
+- **Databases**: MySQL, Microsoft SQL Server, Oracle, PostgreSQL, MongoDB
+- **Test Management**: AzureDevOps, Jira, Mantis, TestLink
+- **Code Management**: GitHub, BitBucket, GitLab, Azure DevOps
+- **Test Reports**: Extent Reports (C#, Java), TestNG Reports
 
+### Java Development
+- **Frameworks**: SpringBoot
+- **Architecture**: Microservices
+- **Messaging**: RabbitMQ
+- **CI/CD**: Azure Pipelines, Argo CD
+- **Code Quality**: SonarQube
+- **Contract Testing**: Pactflow
+- **Monitoring**: New Relic
 
+## 🌐 Language Skills
+- **English**: Intermediate-Advanced (B2)
 
-#### Procurando aprender sempre e ser melhor a cada dia...
+## 💡 Interests and Hobbies
+- Learning new things 🆕
+- Investments 📈💰
+- Physical activities ⚽🏃🏼‍♂️💪🏼
+- Automating tests 🦾🤖
+- Music 🎶
 
-#### Gosto...
-⚽🎵💰📈⏱🦾🏃‍♂️💻
-- Aprender coisas novas 🆕
-- Investimentos 📈💰
-- Praticar atividades físicas  ⚽🏃🏼‍♂️💪🏼
-- Automatizar testes 🦾🤖
-- Músicas 🎶
-
----------------------------------
-
-
-<p align="center">Siga-me | Follow me:</p><br>
+## 🌐 Follow Me
 <p align="center">
-<a href="https://www.linkedin.com/in/gerry-emerson-sousa/"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gerry-emerson-sousa/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
+  </a>
 </p>
-
